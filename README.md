@@ -19,6 +19,3 @@ Welcome to the Autonomous Data Warehouse Cloud Service for Developers workshop. 
   ![](images/0/menu1.png " ")
 
   ![](images/0/menu2.png " ")  
-
-
-
